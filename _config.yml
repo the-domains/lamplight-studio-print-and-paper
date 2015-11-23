@@ -1,0 +1,28 @@
+name: Lamplight Studio Print and Paper
+favicon: null
+layout_spectrum: 0.6026284664403647
+typography_spectrum: 0.5460795455146581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.10077746771275997
+  lightness: 0.08678712812252343
+  saturation: 0.8628792259842157
+  rhythmicContrast: 0.4842711556702852
+purpose: []
